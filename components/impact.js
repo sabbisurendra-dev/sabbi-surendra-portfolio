@@ -1,0 +1,1 @@
+export function renderImpact(items){return `<section class="impact"><div class="wrap impact-grid">${items.map(([value,label])=>`<div><strong>${value}</strong><span>${label}</span></div>`).join('')}</div></section>`}
