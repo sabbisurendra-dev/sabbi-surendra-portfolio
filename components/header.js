@@ -1,0 +1,1 @@
+export function renderHeader(){return `<header class="site-header"><div class="wrap nav"><a class="brand" href="#top">Sabbi Surendra</a><button class="menu" aria-label="Toggle menu">Menu</button><nav><a href="#work">Work</a><a href="#ai">AI & Builds</a><a href="#about">About</a><a href="#contact">Contact</a></nav></div></header>`}
